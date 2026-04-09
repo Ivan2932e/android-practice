@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonClicker</string>
+    <string name="tv_out_text">Текст будет меняться</string>
+    <string name="who_am_i">WhoAmI</string>
+    <string name="it_is_not_me">ItIsNotMe</string>
+    <string name="check_box_text">Дополнительная опция</string>
+    <string name="info_text_hint">Нажми на кнопку!</string>
+</resources>
